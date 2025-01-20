@@ -1,1 +1,1 @@
-This is a new feature example for branching
+This is a new feature example for branching. (Changing here to learn merge conflict)
